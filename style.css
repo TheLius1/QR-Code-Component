@@ -25,11 +25,11 @@ main{
     background-color: var(--white);
     border-radius: 10px;
     box-shadow: 1px 1px 15px #b6b5b5;
-    max-width: 300px;
+    max-width: 320px;
 }
 .image img{
-    margin-top: 10px;
-    width: 280px;
+    margin-top: 16px;
+    width: 290px;
     border-radius: 10px;
     margin-bottom: 1rem;
 }
